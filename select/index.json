@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "インレイド",
+  "base_artist": "VOLTACTION",
+  "createdAt": "2025-12-10T01:14:20.231808Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インレイド",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/pl_01_インレイド_VOLTACTION.txt"
+    }
+  ]
+}
